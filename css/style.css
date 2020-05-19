@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(90deg, #0000fa, #00009e, #00003e) ;
+}
+.logo{
+    max-width: 400px;
+}
+.questionDisplay{
+    background: linear-gradient(90deg, #ea2b03, #9b0200);
+    border: solid #fff 2px;
+    border-radius: 10px;
+}
+ul li.questionItem{
+    background: linear-gradient(90deg, #ea2b03, #9b0200);
+    border: solid #fff 2px;
+    border-radius: 10px;
+    list-style: none;
+}
+.helpItem{
+    float: left; ;
+    list-style: none;
+}
